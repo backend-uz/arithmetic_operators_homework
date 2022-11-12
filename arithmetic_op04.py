@@ -1,5 +1,5 @@
 #Create a variable called 'number' and assign it the three-digit number.
-
+number=123
 #Find the 'number' first digit and assign to x1.
 
 #Find the 'number' second digit and assign to x2.
